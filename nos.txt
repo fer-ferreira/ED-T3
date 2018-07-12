@@ -1,0 +1,205 @@
+Você foi contratado pelo Presidente da Confederação Galáctica, Vaad, para solucionar um curioso caso. Uma série de planetas vêm desaparecendo, não sabe-se o motivo. Todos eles viviam cada qual a sua maneira, alguns estavam em guerra com outros planetas outros em completo estado de paz, alguns passavam por crises econômicas outros estavam no auge do progresso. Todos esses simplesmente sumiram. Especula-se que houve processo de desintegração pois algumas testemunhas que estavam vagando pelo espaço afirmam terem visto um enorme clarão seguido do desaparecimento dos planetas. Não sabemos exatamente quantos planetas desapareceram e nem quais serão os próximos. Inicialmente, você possui três dicas:Sugz, o cientista da Confederação confirmou que os planetas não possuem características comuns entre si. O número de experimentos ilegais estão crescendo, segundo as estatísticas. Centenas de planetas estão aderindo a religião Novo Éden. Escolha uma das opções abaixo:
+[D]Pesquisar sobre a Novo Éden na internet.
+[E]Pesquisar sobre o crescimento do índice de experimentos ilegais.
+1
+0
+Você descobre que Novo Éden é uma religião em ascensão, muitos planetas estão se tornando adeptos a ela. Eles pregam a existência de um ser superior denominado de Ninguém que surgirá a partir dos seres "escolhidos". Você também descobre que a líder da religião é uma humana, a sacerdotisa Carol.
+[D]Ir até um dos templos da religião.
+[E]Ir interrogar Carol.
+3
+0
+É um templo comum, sem imagens e sem decoração, as paredes são brancas e não há letreiro. Está mais parecido com um salão comercial. Nem parece um templo. A porta está aberta. Você entra e uma luz forte quase cega seus olhos, parece que está mais claro que lá fora. Há uma espécie de altar no meio na sala, as cadeiras estão organizadas em formato circular em volta do altar. Há um ser reptiliano inclinado no altar e ele percebe a sua presença. Laank - Você é um membro da Novo Éden? A reunião foi adiada pra semana que vem.
+[D]Fingir ser um membro novo.
+[E]Falar sobre a investigação.
+7
+0
+Laank - Você tem dúvidas? Haverá um congresso para novos membros em breve, mas pode me falar suas dúvidas quem sabe eu não saiba respondê-las.
+[D]Como eu faço para ser um escolhido?
+[E]Quando o Deus Ninguém surgirá?
+15
+0
+Laank - É preciso passar por alguns procedimentos para ser escolhido. Todos somos escolhidos em potencial, mas só aqueles que aguentam carregar o peso de Deus podem o ser efetivamente.
+[D]Aguentar o peso de Deus?
+[E]Que tipo de procedimento?
+31
+0
+Deus possui todas as características boas que um ser pode ter, não é fácil ser Deus. Por isso que meros mortais como eu e você precisamos ser fortes, só assim Ninguém poderá surgir do meio de nós. A sacerdotisa Carol está fazendo o possível para testar o máximo de seres a fim de encontrar o ser digno de Ninguém rapidamente. Muitas espécies já foram descartadas e muitas … Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+63
+1
+Laank - A sacerdotisa Carol juntamente com a sua equipe de pesquisadores fazem testes em todos os fiéis. Eles injetam uma série de substâncias em nós na esperança de reagirmos de acordo com o esperado de um Deus. Se demorarmos muito para responder ou não respondermos adequadamente, somos designados a apenas orar para encontrarem um ser digno de Ninguém. Ele levanta a camiseta e te mostra seu troco, cheio de queimaduras e marcas estranhas. Laank -É o que eu faço, oro. Oro para Ninguém surgir logo, e oro pela minha raça... Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+62
+1
+Laank - Quando encontrarmos alguém capaz de aguentar o peso de Ninguém, alguém que consiga suportar ter todas as características boas que um Deus deve ter. E isso é determinado pela sacerdotisa Carol, se ela chega num consenso sobre quem pode ou não ser Deus, a religião toda aceita.
+[D]Como ela escolhe quem pode ou não ser Deus?
+[E]O que é esse “peso de Deus”?
+30
+0
+Laank - Ela e o cientista Sugz realizam experimentos nos devotos a fim de selecionar os que melhor se adaptam as características divinas que eles injetam. Eu já passei por esses procedimentos e não passei, minha espécie toda sofre por isso.
+[D]Sua espécie toda?
+[E]Por que você não passou?
+61
+0
+Laank - Sim. Carol seleciona apenas um ser por espécie para passar pelos procedimentos. Injetam substâncias e mais substâncias em nosso sangue. Após uma série de estudos e testes eles chegam a conclusão se a sua espécie está apta para continuar recebendo as características divinas. Caso o contrário, eles te rejeitam, não somos mais úteis e nossa única missão passa ser rezar … Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+123
+1
+Laank - Não tem como saber, eles não nos dizem. Eu só sei que meu corpo não reagiu bem às substâncias injetadas. Fiquei cheio de sequelas, meu corpo tem várias marcas e queimaduras.. Dói até hoje. Minha espécie não merece ser Ninguém, por isso estou aqui, tentando redimir os pecados que carrego da minha espécie. Espero ainda ser útil de alguma forma para a religião e para Carol. … Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+122
+1
+É a incrível capacidade de carregar consigo todas as características boas que um Deus deve ter. Essas características são injetadas no nosso sangue por meios de procedimentos que a sacerdotisa Carol realiza. Caso consigamos responder positivamente, toda a nossa espécie recebe as bênçãos do Deus Ninguém, caso contrário, somos descartados e nossa única missão passa a ser rezar. Rezar para que encontrem um ser digno logo e rezar pela nossa espécie que deixou de ser útil para a religião. … Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+60
+0
+Laank - Investigação? Não posso deixar alguém atrapalhar os planos da sacerdotisa Carol … Você acorda meio atordoado. Está escuro e o clima está meio úmido. Você está acorrentado. Laank - Essa será sua vida agora, você não nunca mais vai atrapalhar os seres que querem fazer o bem para os universos. A Carol está criando um novo Deus e ele governará os universos até o final dos tempos. Fim de jogo. Você foi sequestrado.
+-
+-
+14
+0
+Carol - Olá, seja bem vindo. No que posso ser útil?… Planetas desintegrando? Li as notícias nos jornais, mas não tenho como ajudá-lo nessa questão.
+[D]Perguntar se algum desses planetas eram fiéis à religião.
+[E]Perguntar sobre o Deus Ninguém.
+6
+0
+... Você acorda e percebe que está na cabine de comando de uma nave espacial. Carol está pilotando e há outros seres com vocês. O espaço não é o mesmo, o fundo é azul e não preto e você consegue contar 15 esferas girando em torno de algo que parece ser um buraco negro. São os planetas desaparecidos. Carol - Não podia deixar que um investigadorzinho de merda como você atrapalhasse os planos do grande Deus ninguém. Vê? Todos os planetas que sumiram estão aqui. Sabe por quê? Porque todos os seres desses planetas são deuses em potencial, as minhas incontáveis experiências nos trouxeram esses resultados, após muito tempo de estudo. Um dia, o Deus Ninguém surgirá de algum ser desses planetas, contendo todas as características divinas que os outros 14 possuem, mas para isso preciso continuar com meus experimentos e você não vai interferir. Fim de jogo. Sua investigação acaba aqui, você foi sequestrado.
+-
+-
+13
+0
+Carol - Ninguém porque ele pode ser qualquer um e qualquer um pode ser ele. Ele é gerado não por um, mas por vários de nós, possuindo todas as características divinas que um Deus precisa ter. Seu reinado será grande e não terá fim.
+[D]Ele não existe ainda?
+[E]Qual a sua função como sacerdotisa?
+12
+0
+Carol - Eu, com sabedoria divina, seleciono seres com habilidades em potencial para serem formadores de Ninguém. Esses seres passam por uma série de procedimentos que nos dizem se são realmente “os escolhidos” ou não. Se forem, eles provam da bondade e do amor de Ninguém, ajudando na construção de um Deus novo.
+[D]Que tipo de procedimentos?
+[E]Como esse deus novo é construído?
+25
+0
+Carol - Até pouco tempo atrás, Sugz realizava procedimentos testes com determinadas substâncias que afloravam certas habilidades como força, poderes psíquicos e empatia. Quando a resposta era positiva, toda a raça daquele indivíduo passava a ser considerada “escolhida” e eles passavam para a próxima fase de análise, que é a análise individual. ... Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+51
+1
+Carol - Já assistiu centopéia humana? ... brincadeira. Nosso Deus nada mais é do que a evolução de um único ser. Sendo essa evolução passada por vários estágios, buscando atingir todas as características divinas. Existem raças que são mais bondosas em essência, algumas são mais fortes, outras são carismáticos. Assim, buscamos unir todas essas características num único ser, tendo ajuda dos outros.
+[D]O que acontece com quem tem as características selecionadas?
+[E]Esses procedimentos são legais?
+50
+1
+Carol - O que você acha? Você gostaria de ser submetido a experimentos genéticos, por vezes dolorosos? … Muitos seres se voluntariam num primeiro momento, mas após a primeira exposição com as substâncias que usamos querem desistir. Só que aí não tem mais volta. Então, nós precisamos forçá-los a continuar os experimentos e isso meu querido, governo nenhum aprova … Você acorda e percebe que está na cabine de comando de uma nave espacial. Carol está pilotando e há outros seres com vocês. O espaço não é o mesmo, o fundo é azul e não preto e você consegue contar 15 esferas girando em torno de algo que parece ser um buraco negro. São os planetas desaparecidos. Carol - Não podia deixar que um investigadorzinho de merda como você atrapalhasse os planos do grande Deus ninguém. Vê? Todos os planetas que sumiram estão aqui. Sabe por quê? Porque todos os seres desses planetas são deuses em potencial, as minhas incontáveis experiências nos trouxeram esses resultados, após muito tempo de estudo. Um dia, o Deus Ninguém surgirá de algum ser desses planetas, contendo todas as características divinas que os outros 14 possuem, mas para isso preciso continuar com meus experimentos e você não vai interferir. Fim de jogo. Sua investigação acaba aqui, você foi sequestrado.
+-
+-
+100
+0
+Carol - Eles passam a fazer parte do novo plano de Deus e estão aptos à próxima fase de análise, que nos dirá se temos um ser que pode ser Deus ou um ser que pode doar seus genes para Deus... Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+101
+1
+Carol - Não existe AINDA. Nosso Deus surgirá a partir de todas as características divinas que os seres galácticos possuem. Ele reunirá pontos fortes em sí para se tornar cada vez mais poderoso, até que não exista mais a possibilidade de evolução.
+[D]Evolução?
+[E]Vocês estão mexendo com genes?
+24
+0
+Ninguém é a junção de tudo o que há de bom. Para tal, é preciso que um único ser evolua e renasça com todas essas características. Quando falo em evolução, estou falando da criação de um ser superior. Estamos realizando vários procedimentos genéticos para determinar quais são as espécies que podem suportar todas as características divinas. Aqueles que respondem bem aos testes são considerados "os escolhidos" e recebem glória divina e podem passar para o próximo plano, os que não respondem bem são rejeitados e só restam rezar. ... Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+49
+1
+… Você acorda e percebe que está na cabine de comando de uma nave espacial. Carol está pilotando e há outros seres com vocês. O espaço não é o mesmo, o fundo é azul e não preto e você consegue contar 15 esferas girando em torno de algo que parece ser um buraco negro. São os planetas desaparecidos. Carol - Não podia deixar que um investigadorzinho de merda como você atrapalhasse os planos do grande Deus ninguém. Vê? Todos os planetas que sumiram estão aqui. Sabe por quê? Porque todos os seres desses planetas são deuses em potencial, as minhas incontáveis experiências nos trouxeram esses resultados, após muito tempo de estudo. Um dia, o Deus Ninguém surgirá de algum ser desses planetas, contendo todas as características divinas que os outros 14 possuem, mas para isso preciso continuar com meus experimentos e você não vai interferir. Fim de jogo. Sua investigação acaba aqui, você foi sequestrado.
+-
+-
+48
+0
+Você descobre que vários planetas centrais estão com crescimento nas taxas de experimentos ilegais, em sua grande maioria envolvendo mendigos. Um dos principais acusados desses atos é o cientista Sugz, que possui diversos projetos desaprovados pela Confederação Galáctica.
+[D]Ir interrogar Sugz.
+[E]Pesquisar sobre as pesquisas de Sugz.
+2
+0
+Sugz - Olá! Seja muito bem-vindo ao meu laboratório. Realizamos qualquer tipo de serviço aqui, seja ele legal ou não, se é que você me entende. Hehe
+[D]O que você sabe sobre o recente desaparecimento de alguns planetas?
+[E]Me mostre algum dos experimentos ilegais que te tornaram famoso?
+5
+0
+Sugz - Eu não sei de muitas informações sobre o seu caso, afinal de contas desintegração não é a minha área. Mas como antes de você ser contratado eu era a única pessoa capaz de fazer um relatório lógico sobre o assunto, acabei pesquisando sobre as características físicas de todos esses planetas e encontrei um total de ZERO compatibilidade entre eles.
+[D]Existe alguém que você suspeite?
+[E]Como você sabe que eles foram desintegrados?
+11
+0
+Sugz - Eu sou um cientista, planetas estão sumindo, planeta é assunto de cientista. Você quer alguém mais suspeito do que eu? Já pensou em procurar na enciclopédia dos cientistas? … Brincadeiras a parte, eu nunca deveria ter sido levado a julgamento. Eu sou um herói, não o vilão. Estou ajudando muitas pessoas com esses experimentos ilegais. Eu e a Carol estamos tentando criar um Deus, que dominará todos os universos. Eles são escolhidos através dos meus experimentos que nos dizem quais seres estão aptos para receber os genes divinos e quais devem ser rejeitados...... Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+23
+1
+Sugz- Eu sei … Eu sei porque faço parte desse projeto e não vou deixar que um detetivezinho atrapalhe nossos planos … Você acorda meio atordoado. Está acorrentado num lugar escuro. Sugz- Você achou mesmo que eu iria deixar sua investigação continuar sabendo que eu trabalho estava em jogo? Eu juntamente com a sacerdotisa Carol, estamos criando mutantes que um dia dominarão todos os universos. Dentre todos os mutantes surgirá um que será o Deus Ninguém e então, nosso universo deixará de existir. Você foi sequestrado. Fim de jogo
+-
+-
+22
+0
+Sugz- Você gostaria de ser submetido a experimentos genéticos, por vezes dolorosos? … Muitos seres se voluntariam num primeiro momento, mas após a primeira exposição com as substâncias que usamos querem desistir. Só que aí não tem mais volta. Então, nós precisamos forçá-los a continuar os experimentos e isso meu querido, governo nenhum aprova … Você acorda e percebe que está na cabine de comando de uma nave espacial. Carol está pilotando e há outros seres com vocês. O espaço não é o mesmo, o fundo é azul e não preto e você consegue contar 15 esferas girando em torno de algo que parece ser um buraco negro. São os planetas desaparecidos. Sugz - Não podia deixar que um investigadorzinho de merda como você atrapalhasse os planos do grande Deus ninguém. Vê? Todos os planetas que sumiram estão aqui. Sabe por quê? Porque todos os seres desses planetas são deuses em potencial, as minhas incontáveis experiências nos trouxeram esses resultados, após muito tempo de estudo. Um dia, o Deus Ninguém surgirá de algum ser desses planetas, contendo todas as características divinas que os outros 14 possuem, mas para isso preciso continuar com meus experimentos e você não vai interferir. Fim de jogo. Sua investigação acaba aqui, você foi sequestrado.
+-
+-
+10
+0
+Ele possui muitas publicações dos mais diversos assuntos como poeira cósmica, análise demográfica, genética interespacial, crescimento acelerado de plantas e muitos outros. Sugz recebeu várias manchetes de jornais por estar sendo investigado sobre experimentos ilegais com seres, envolvendo tortura. Em um dos trechos das reportagens Sugz diz: “Não faço isso por mim, há um bem maior que comandará todas as espécies. Eu sou só um instrumento de trabalho. Seremos recompensados no final e todos vocês vão me agradecer um dia.” Você também descobre que ele é um adepto da Novo Éden
+[D]Ir até o laboratório de Sugz.
+[E]Continuar pesquisando na internet.
+4
+0
+Sugz - Olá! Em que posso ser útil?
+[D]Perguntar da religião.
+[E]Perguntar sobre os experimentos que ele realiza.
+9
+0
+Sugz - Novo Éden é uma religião boa. Eu os ajudo a encontrarem um novo Deus enquanto posso seguir com os meus experimentos que o governo não aprova mas o povo sim. Fazemos vários tipos de procedimentos genéticos.
+[D]Que tipo de experimentos?
+[E]Genética?
+19
+0
+Sugz - Eu injeto algumas substâncias e espero os seres responderem de acordo com o esperado. Também retiro algumas substâncias sanguíneas de um para injetar em outros. Aqueles que respondem bem são considerados “escolhidos” e todos os seres daquela mesma espécie se tornam escolhidos também, eles recebem a glória eterna. Agora, aqueles que não respondem bem … meus pêsames, só orando mesmo, isso que eu nem sou religioso...Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+39
+1
+Sugz - Genética meu caro Watson, não era evidente? kkkk Existem dois motivos para o governo não aprovar esses experimentos. Primeiro porque mexe com mutação, essa religião aí está tentando criar um ser mutante, e segundo porque alguns seres, em determinada altura do procedimento, desistem e são forçados a continuar até o final.
+[D]Vocês forçavam os seres a continuar no experimento até eles se tornarem mutantes?
+[E]Lamento meu caro Sherlock, mas terei que denunciar seu trabalho sujo.
+38
+0
+Você liga para Vaad e conta tudo o que descobriu, ele nada surpreso te diz que Sugz sempre foi um fora da lei e que ele sempre consegue se safar das denúncias por ter suporte de empresas grandes e poderosas. Seu trabalho não levou em lugar nenhum, não se pode vencer o sistema. Fim de jogo.
+-
+-
+77
+0
+Sugz - Nem todos viram mutantes, alguns dos que sobrevivem sem atingir os resultados esperados conseguem continuar vivendo suas vidas, o que muda para esses é que a partir de então toda a sua raça deixa de ser escolhida e eles não podem mais desfrutar da glória eterna. Os que reagem bem geralmente também não viram mutantes, se tornam superiores...Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+76
+1
+Sugz - O meu mais recente trabalho foi com a Carol, sacerdotisa da Novo Éden. É bem simples, eles me trazem alguém aqui e então injeto ou retiro genes, quem consegue aguentar bem e ainda responder como o esperado, passa a ser  considerado um “escolhido”, e todos aqueles da mesma raça também recebem a mesma denominação escolhidos, o que não respondem bem mas conseguem sobreviver, são utilizados apenas como fiéis e só recebem o papel de orar.
+[D]O que exatamente acontece com os “escolhidos”?
+[E]O que exatamente acontece com os não escolhidos?
+18
+0
+Sugz - Segundo a Carol, eles recebem a glória eterna do Deus Ninguém e passam para um outro nível de análise, a análise individual. Ela vai analisar todos os seres daquela espécie para verificar se todos são tão escolhidos quanto aquele que carregou o nome da espécie. Eles deixam o nosso universo e passam a fazer parte do plano de Deus...Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+36
+1
+Sugz - Eles não são rejeitados, mas também não são mais úteis para a religião,  seu planeta não é mais útil. A única missão deles é orar e trazer mais fiéis, seus genes não são fortes o suficiente. Muitos deles desistem de continuar e desistência é considerado traição, segundo as leis da religião....Seu telefone toca, Vaad quer falar com você. Vaad - Presumo que já tenha uma dedução sobre o caso que te passei. Vamos ver onde chegamos:
+-
+-
+37
+1
+Uma investigação de verdade não se faz apenas de pesquisas no Google. Muitas informações na internet são falsa e você não deveria acreditar nelas. Fim do jogo. Está despedido.
+-
+-
+8
+0
